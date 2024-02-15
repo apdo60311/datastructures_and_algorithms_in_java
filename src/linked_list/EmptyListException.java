@@ -1,4 +1,4 @@
-package LinkedList;
+package linked_list;
 
 public class EmptyListException  extends Exception {
 

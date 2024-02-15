@@ -250,9 +250,7 @@ public class Sorter<T extends  Comparable<T>> {
             System.out.println(exception.getMessage());
         }
     }
-    private void genomeSort(){
-
-    }
+    private void genomeSort(){}
 
     public Sorter<T> setQuickSortPartitionType(QuickSortPartitionType quickSortPartitionType) {
         this.quickSortPartitionType = quickSortPartitionType;
